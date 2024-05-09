@@ -8,3 +8,6 @@ git status = verificar si los cambios estan en stage o registrados
 git add . = registrar todos los cambios
 git commit -m "(nombre del commit, que estas resolviendo del issue)" = hacer un commit con su mensaje
 git push = enviar los commit y las ramas a github
+
+Solving #2 issue
+Adding a nav-bar component
